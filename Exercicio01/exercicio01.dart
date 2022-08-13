@@ -34,3 +34,5 @@ void main() {
   print("A soma dos valores divisíveis por 3 e 5 entre 1 e $numero é: ");
   print(soma);
 }
+
+//Daniel Martins Patricio
