@@ -9,6 +9,10 @@ flutter run
 ```
 _Você pode fazer isso em qualquer linha de comando. Caso esteja no Windows, um dos jeitos mais fáceis é digitar `cmd` na barra de endereço da pasta e apertar enter._
 
+![image](https://user-images.githubusercontent.com/110635772/185507041-183117ff-6e45-4a5a-921b-039a728b35c8.png)
+
+![image](https://user-images.githubusercontent.com/110635772/185507082-f5569a27-5f8e-42c7-b3b3-532850ecc691.png)
+
 Faltou implementar:
 - Movimentos apenas na horizontal e vertical dos inimigos;
 - Sair de um lado da tela e ir pro outro;
